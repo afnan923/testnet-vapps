@@ -7,7 +7,7 @@ Crypto Fishing Tracker
 DeFi
 
 ## Author
-@afnan913
+@afnan923
 
 ## Description
 A decentralized app to track and gamify fishing activities with token rewards.
@@ -26,5 +26,5 @@ Combine real-world hobby (fishing) with blockchain rewards to encourage communit
 - Q3: Token integration + community rewards
 
 ## Links
-- GitHub: https://github.com/afnan913
+- GitHub: https://github.com/afnan923
 - Twitter: https://twitter.com/saputra15_aldi
